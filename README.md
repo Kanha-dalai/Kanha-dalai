@@ -45,14 +45,15 @@
 
 ## 📂 Featured Projects  
 
-🎤 Text To Speech Converter (JavaScript)  
+🎤 Text To Speech Converter (HTML, CSS, JavaScript)  
 🔗 https://kanha-dalai.github.io/Text-To-Speech-Converter-JS/
 
 🎮 Tic Tac Toe Game (HTML, CSS, JavaScript)
+🔗 https://kanha-dalai.github.io/Tic-Tac-Toe-Game/
 
 📚 Library Management System (Java + JDBC + MySQL)
 
-🧮 Grade Calculator (Java)
+🧮 ERP Management System (Java)
 
 ---
 
