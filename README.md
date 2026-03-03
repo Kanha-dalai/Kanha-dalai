@@ -12,8 +12,8 @@
 <pre>
 ## 🚀 About Me  
 🎓 MCA Final Year Student  
-💡 Passionate about Backend Development  
-☕ Love working with Java, JDBC & MySQL  
+💡 Passionate about both Frontend and Backend Development  
+☕ Love working with JavaScript,Java, JDBC & MySQL  
 🔭 Currently building Java & Web Projects  
 🎯 Goal: Become a Professional Software Developer  
 🌱 I’m currently learning **MERN Stack and Spring Boot**
